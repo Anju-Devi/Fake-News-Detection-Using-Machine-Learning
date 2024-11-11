@@ -1,0 +1,27 @@
+Fake News Detection using Machine Learning
+Hey there! 👋 I'm Anju, an engineering student diving into my first hands-on Machine Learning project. If you're a beginner like me, don't worry—I’ll walk you through it step by step!
+
+Here’s How to Get Started
+Install Anaconda
+
+First things first, download and install Anaconda on your system. It’s a super helpful tool to manage packages and environments for Python.
+Once installed, open Anaconda Navigator and launch Jupyter Notebook.
+Download the Dataset
+
+Go to this Kaggle dataset and download the dataset. It’s the foundation of our project!
+Upload the Dataset to Jupyter Notebook
+
+Upload the dataset to Jupyter Notebook. It’s easy and makes it all ready for your code.
+Create a New Notebook
+
+Now, create a new file in Jupyter Notebook (name it something like fake_news_detection.ipynb).
+Run the Code
+
+Copy the code from the fake_news_detection.ipynb file and run it line by line. If you get stuck or see any errors, don’t panic—just copy the error and search for solutions online (or ask me!). ChatGPT and Stack Overflow are great places to find fixes. 😄
+Results
+
+After running the code, you’ll see the magic happen! The fake news detection model will give you results.
+A Quick Recap
+This project is all about detecting fake news using machine learning. It’s a perfect starting point for beginners, so feel free to tweak and experiment with the code as you go!
+
+Good luck, and have fun learning! 🚀
