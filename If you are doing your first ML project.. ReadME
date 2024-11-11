@@ -7,7 +7,7 @@ Install Anaconda
 First things first, download and install Anaconda on your system. It’s a super helpful tool to manage packages and environments for Python.
 Once installed, open Anaconda Navigator and launch Jupyter Notebook.
 Download the Dataset
-
+(https://www.kaggle.com/datasets/subho117/fake-news-detection-using-machine-learning)
 Go to this Kaggle dataset and download the dataset. It’s the foundation of our project!
 Upload the Dataset to Jupyter Notebook
 
