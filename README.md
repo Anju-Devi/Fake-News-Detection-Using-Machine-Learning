@@ -18,4 +18,4 @@ This repository contains a complete pipeline for building and deploying a **Fake
 ### 🚀 Getting Started
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/Fake-News-Detection.git
+   git clone https://github.com/Anju-Devi/Fake-News-Detection-Using-Machine-Learning.git
